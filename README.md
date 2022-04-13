@@ -1,3 +1,4 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 [![grongor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=grongor&custom_title=My%20GitHub%20Stats&show_icons=true&title_color=539bf5&text_color=adbac7&icon_color=539bf5&border_color=444c56&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grongor&layout=compact&langs_count=8&title_color=539bf5&text_color=adbac7&icon_color=539bf5&border_color=444c56&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
 
