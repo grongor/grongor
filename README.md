@@ -4,7 +4,7 @@
 
 # Hello! 👋
 
-I'm a backend/system software developer since ever (professionally since circa 2008), currently working for [CDN77](https://www.cdn77.com).
+I'm a backend/system software developer since ever (professionally since circa 2008), currently working for [Oddin.gg](https://oddin.gg).
 
 I love to dive deep into things most people even don't know to exist and write future-proof and performant code, mostly in Go, PHP, Java, and Python.
 
